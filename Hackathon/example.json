@@ -1,0 +1,2096 @@
+[
+  {
+    "type": "event",
+    "id": "8fb86986-162c-11e8-a1eb-29bef20751f0",
+    "created_at": 1519124128,
+    "event_name": "order-fulfilled",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1519033734,
+      "updated_date": 1519124128,
+      "id": 362332618817,
+      "cart": "e34b34381bc9ea23b4b4816148ab378d",
+      "gateway": "stripe",
+      "total_price": {
+        "currency": "SGD",
+        "amount": 7700
+      },
+      "tracking_number": null,
+      "processing_method": "direct",
+      "order_number": {
+        "value": "191569915100",
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/orders/362332618817"
+      },
+      "product_1_id": {
+        "value": 8561837255,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561837255"
+      },
+      "product_1_title": "Clear Acne Regular Strength Cream 2.5% BP",
+      "product_1_price": {
+        "currency": "SGD",
+        "amount": 2900
+      },
+      "product_1_status": "fulfilled",
+      "product_1_grams": 77,
+      "product_1_sku": 6100,
+      "product_2_id": {
+        "value": 8561767175,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561767175"
+      },
+      "product_2_title": "Skin Balancing Super Antioxidant Concentrate Serum with Retinol",
+      "product_2_price": {
+        "currency": "SGD",
+        "amount": 4800
+      },
+      "product_2_status": "fulfilled",
+      "product_2_grams": 35,
+      "product_2_sku": 3350
+    }
+  },
+  {
+    "type": "event",
+    "id": "1babecf2-155a-11e8-9f72-6db77b567d34",
+    "created_at": 1519033739,
+    "event_name": "order-create",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1519033734,
+      "updated_date": 1519033739,
+      "id": 362332618817,
+      "cart": "e34b34381bc9ea23b4b4816148ab378d",
+      "gateway": "stripe",
+      "total_price": {
+        "currency": "SGD",
+        "amount": 7700
+      },
+      "processing_method": "direct",
+      "order_number": {
+        "value": "191569915100",
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/orders/362332618817"
+      },
+      "product_1_id": {
+        "value": 8561837255,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561837255"
+      },
+      "product_1_title": "Clear Acne Regular Strength Cream 2.5% BP",
+      "product_1_price": {
+        "currency": "SGD",
+        "amount": 2900
+      },
+      "product_1_grams": 77,
+      "product_1_sku": 6100,
+      "product_2_id": {
+        "value": 8561767175,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561767175"
+      },
+      "product_2_title": "Skin Balancing Super Antioxidant Concentrate Serum with Retinol",
+      "product_2_price": {
+        "currency": "SGD",
+        "amount": 4800
+      },
+      "product_2_grams": 35,
+      "product_2_sku": 3350,
+      "tracking_number": null
+    }
+  },
+  {
+    "type": "event",
+    "id": "1ba91dec-155a-11e8-b77b-179390be56e0",
+    "created_at": 1519033739,
+    "event_name": "order-paid",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1519033734,
+      "updated_date": 1519033739,
+      "id": 362332618817,
+      "cart": "e34b34381bc9ea23b4b4816148ab378d",
+      "gateway": "stripe",
+      "total_price": {
+        "currency": "SGD",
+        "amount": 7700
+      },
+      "processing_method": "direct",
+      "order_number": {
+        "value": "191569915100",
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/orders/362332618817"
+      },
+      "product_1_id": {
+        "value": 8561837255,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561837255"
+      },
+      "product_1_title": "Clear Acne Regular Strength Cream 2.5% BP",
+      "product_1_price": {
+        "currency": "SGD",
+        "amount": 2900
+      },
+      "product_1_grams": 77,
+      "product_1_sku": 6100,
+      "product_2_id": {
+        "value": 8561767175,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561767175"
+      },
+      "product_2_title": "Skin Balancing Super Antioxidant Concentrate Serum with Retinol",
+      "product_2_price": {
+        "currency": "SGD",
+        "amount": 4800
+      },
+      "product_2_grams": 35,
+      "product_2_sku": 3350,
+      "tracking_number": null
+    }
+  },
+  {
+    "type": "event",
+    "id": "19e6c07c-155a-11e8-80d9-5b740660d736",
+    "created_at": 1519033736,
+    "event_name": "checkout-completed",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1519033312,
+      "updated_date": 1519033736,
+      "id": {
+        "value": 2469504155713,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/checkouts/2469504155713"
+      },
+      "cart": "e34b34381bc9ea23b4b4816148ab378d",
+      "gateway": "stripe",
+      "completed_at": 1519033734,
+      "total_price": {
+        "currency": "SGD",
+        "amount": 7700
+      },
+      "order_number": {
+        "value": "#2469504155713",
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/orders/2469504155713"
+      },
+      "abandoned_checkout_url": "https://checkout.shopify.com/14402440/checkouts/27b3937ecbed7068b9d2110d58b78e91/recover?key=89a7409cfdab12c0190b0352fa7d91bf",
+      "product_1_id": {
+        "value": 8561837255,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561837255"
+      },
+      "product_1_title": "Clear Acne Regular Strength Cream 2.5% BP",
+      "product_1_price": {
+        "currency": "SGD",
+        "amount": 2900
+      },
+      "product_1_grams": 77,
+      "product_1_sku": 6100,
+      "product_2_id": {
+        "value": 8561767175,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561767175"
+      },
+      "product_2_title": "Skin Balancing Super Antioxidant Concentrate Serum with Retinol",
+      "product_2_price": {
+        "currency": "SGD",
+        "amount": 4800
+      },
+      "product_2_grams": 35,
+      "product_2_sku": 3350,
+      "tracking_number": null
+    }
+  },
+  {
+    "type": "event",
+    "id": "eef5c3c2-1559-11e8-b149-53bbe499d4fa",
+    "created_at": 1519033664,
+    "event_name": "checkout-payment-step",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1519033312,
+      "updated_date": 1519033664,
+      "id": {
+        "value": 2469504155713,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/checkouts/2469504155713"
+      },
+      "cart": "e34b34381bc9ea23b4b4816148ab378d",
+      "total_price": {
+        "currency": "SGD",
+        "amount": 7700
+      },
+      "order_number": {
+        "value": "#2469504155713",
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/orders/2469504155713"
+      },
+      "abandoned_checkout_url": "https://checkout.shopify.com/14402440/checkouts/27b3937ecbed7068b9d2110d58b78e91/recover?key=89a7409cfdab12c0190b0352fa7d91bf",
+      "product_1_id": {
+        "value": 8561837255,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561837255"
+      },
+      "product_1_title": "Clear Acne Regular Strength Cream 2.5% BP",
+      "product_1_price": {
+        "currency": "SGD",
+        "amount": 2900
+      },
+      "product_1_grams": 77,
+      "product_1_sku": 6100,
+      "product_2_id": {
+        "value": 8561767175,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561767175"
+      },
+      "product_2_title": "Skin Balancing Super Antioxidant Concentrate Serum with Retinol",
+      "product_2_price": {
+        "currency": "SGD",
+        "amount": 4800
+      },
+      "product_2_grams": 35,
+      "product_2_sku": 3350,
+      "tracking_number": null
+    }
+  },
+  {
+    "type": "event",
+    "id": "e1d91478-1559-11e8-b0b2-05cc1524b164",
+    "created_at": 1519033642,
+    "event_name": "checkout-customer-infos-step",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1519033312,
+      "updated_date": 1519033642,
+      "id": {
+        "value": 2469504155713,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/checkouts/2469504155713"
+      },
+      "cart": "e34b34381bc9ea23b4b4816148ab378d",
+      "total_price": {
+        "currency": "SGD",
+        "amount": 7700
+      },
+      "order_number": {
+        "value": "#2469504155713",
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/orders/2469504155713"
+      },
+      "abandoned_checkout_url": "https://checkout.shopify.com/14402440/checkouts/27b3937ecbed7068b9d2110d58b78e91/recover?key=89a7409cfdab12c0190b0352fa7d91bf",
+      "product_1_id": {
+        "value": 8561837255,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561837255"
+      },
+      "product_1_title": "Clear Acne Regular Strength Cream 2.5% BP",
+      "product_1_price": {
+        "currency": "SGD",
+        "amount": 2900
+      },
+      "product_1_grams": 77,
+      "product_1_sku": 6100,
+      "product_2_id": {
+        "value": 8561767175,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561767175"
+      },
+      "product_2_title": "Skin Balancing Super Antioxidant Concentrate Serum with Retinol",
+      "product_2_price": {
+        "currency": "SGD",
+        "amount": 4800
+      },
+      "product_2_grams": 35,
+      "product_2_sku": 3350,
+      "tracking_number": null
+    }
+  },
+  {
+    "type": "event",
+    "id": "c40d3dde-1559-11e8-ab70-5561450a51e3",
+    "created_at": 1519033592,
+    "event_name": "update-cart",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1519033243,
+      "updated_date": 1519033592,
+      "id": "e34b34381bc9ea23b4b4816148ab378d",
+      "product_1_id": {
+        "value": 8561837255,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561837255"
+      },
+      "product_1_title": "Clear Acne Regular Strength Cream 2.5% BP - 67 ml",
+      "product_1_price": 29,
+      "product_1_grams": 77,
+      "product_1_sku": 6100,
+      "product_2_id": {
+        "value": 8561767175,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561767175"
+      },
+      "product_2_title": "Skin Balancing Super Antioxidant Concentrate Serum with Retinol - 30 ml",
+      "product_2_price": 48,
+      "product_2_grams": 35,
+      "product_2_sku": 3350,
+      "tracking_number": null
+    }
+  },
+  {
+    "type": "event",
+    "id": "2152c5f0-1559-11e8-a9bf-636d13111996",
+    "created_at": 1519033319,
+    "event_name": "checkout-customer-infos-step",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1519033312,
+      "updated_date": 1519033319,
+      "id": {
+        "value": 2469504155713,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/checkouts/2469504155713"
+      },
+      "cart": "e34b34381bc9ea23b4b4816148ab378d",
+      "total_price": {
+        "currency": "SGD",
+        "amount": 4800
+      },
+      "order_number": {
+        "value": "#2469504155713",
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/orders/2469504155713"
+      },
+      "abandoned_checkout_url": "https://checkout.shopify.com/14402440/checkouts/27b3937ecbed7068b9d2110d58b78e91/recover?key=8035e3ee402350c98a8cbc3ca4ec6cd7",
+      "product_1_id": {
+        "value": 8561767175,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561767175"
+      },
+      "product_1_title": "Skin Balancing Super Antioxidant Concentrate Serum with Retinol",
+      "product_1_price": {
+        "currency": "SGD",
+        "amount": 4800
+      },
+      "product_1_grams": 35,
+      "product_1_sku": 3350,
+      "tracking_number": null
+    }
+  },
+  {
+    "type": "event",
+    "id": "1d29055c-1559-11e8-9d79-136741c0ca3e",
+    "created_at": 1519033312,
+    "event_name": "checkout-start",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1519033312,
+      "updated_date": 1519033312,
+      "id": {
+        "value": 2469504155713,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/checkouts/2469504155713"
+      },
+      "cart": "e34b34381bc9ea23b4b4816148ab378d",
+      "total_price": {
+        "currency": "SGD",
+        "amount": 4800
+      },
+      "order_number": {
+        "value": "#2469504155713",
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/orders/2469504155713"
+      },
+      "abandoned_checkout_url": "https://checkout.shopify.com/14402440/checkouts/27b3937ecbed7068b9d2110d58b78e91/recover",
+      "product_1_id": {
+        "value": 8561767175,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561767175"
+      },
+      "product_1_title": "Skin Balancing Super Antioxidant Concentrate Serum with Retinol",
+      "product_1_price": {
+        "currency": "SGD",
+        "amount": 4800
+      },
+      "product_1_grams": 35,
+      "product_1_sku": 3350,
+      "tracking_number": null
+    }
+  },
+  {
+    "type": "event",
+    "id": "f40c23f2-1558-11e8-883d-5524f883f783",
+    "created_at": 1519033243,
+    "event_name": "create-cart",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1519033243,
+      "updated_date": 1519033243,
+      "id": "e34b34381bc9ea23b4b4816148ab378d",
+      "product_1_id": {
+        "value": 8561767175,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561767175"
+      },
+      "product_1_title": "Skin Balancing Super Antioxidant Concentrate Serum with Retinol - 30 ml",
+      "product_1_price": 48,
+      "product_1_grams": 35,
+      "product_1_sku": 3350,
+      "tracking_number": null
+    }
+  },
+  {
+    "type": "event",
+    "id": "f409e9d4-1558-11e8-9588-3db90318d731",
+    "created_at": 1519033243,
+    "event_name": "update-cart",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1519033243,
+      "updated_date": 1519033243,
+      "id": "e34b34381bc9ea23b4b4816148ab378d",
+      "product_1_id": {
+        "value": 8561767175,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561767175"
+      },
+      "product_1_title": "Skin Balancing Super Antioxidant Concentrate Serum with Retinol - 30 ml",
+      "product_1_price": 48,
+      "product_1_grams": 35,
+      "product_1_sku": 3350,
+      "tracking_number": null
+    }
+  },
+  {
+    "type": "event",
+    "id": "b8fba7ba-0a7c-11e8-8347-4dcc7bc4a21b",
+    "created_at": 1517839143,
+    "event_name": "order-fulfilled",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1517711885,
+      "updated_date": 1517839143,
+      "id": 176521183251,
+      "cart": "b077a188d5fe5f20140606611821ea7c",
+      "gateway": "stripe",
+      "total_price": {
+        "currency": "SGD",
+        "amount": 11600
+      },
+      "tracking_number": null,
+      "processing_method": "direct",
+      "order_number": {
+        "value": "191569914589",
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/orders/176521183251"
+      },
+      "product_1_id": {
+        "value": 8561681223,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561681223"
+      },
+      "product_1_title": "Resist Daily Pore-Refining Treatment 2% BHA (Salicylic Acid)",
+      "product_1_price": {
+        "currency": "SGD",
+        "amount": 4800
+      },
+      "product_1_status": "fulfilled",
+      "product_1_grams": 123,
+      "product_1_sku": 7820,
+      "product_2_id": {
+        "value": 8561688839,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561688839"
+      },
+      "product_2_title": "Resist C15 Super Booster",
+      "product_2_price": {
+        "currency": "SGD",
+        "amount": 6800
+      },
+      "product_2_status": "fulfilled",
+      "product_2_grams": 88,
+      "product_2_sku": 7770
+    }
+  },
+  {
+    "type": "event",
+    "id": "7048cd1e-0954-11e8-9af4-6d04bbf0577a",
+    "created_at": 1517711890,
+    "event_name": "order-paid",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1517711885,
+      "updated_date": 1517711890,
+      "id": 176521183251,
+      "cart": "b077a188d5fe5f20140606611821ea7c",
+      "gateway": "stripe",
+      "total_price": {
+        "currency": "SGD",
+        "amount": 11600
+      },
+      "processing_method": "direct",
+      "order_number": {
+        "value": "191569914589",
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/orders/176521183251"
+      },
+      "product_1_id": {
+        "value": 8561681223,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561681223"
+      },
+      "product_1_title": "Resist Daily Pore-Refining Treatment 2% BHA (Salicylic Acid)",
+      "product_1_price": {
+        "currency": "SGD",
+        "amount": 4800
+      },
+      "product_1_grams": 123,
+      "product_1_sku": 7820,
+      "product_2_id": {
+        "value": 8561688839,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561688839"
+      },
+      "product_2_title": "Resist C15 Super Booster",
+      "product_2_price": {
+        "currency": "SGD",
+        "amount": 6800
+      },
+      "product_2_grams": 88,
+      "product_2_sku": 7770,
+      "tracking_number": null
+    }
+  },
+  {
+    "type": "event",
+    "id": "70476654-0954-11e8-bd74-15e1b2c2a64a",
+    "created_at": 1517711890,
+    "event_name": "order-create",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1517711885,
+      "updated_date": 1517711890,
+      "id": 176521183251,
+      "cart": "b077a188d5fe5f20140606611821ea7c",
+      "gateway": "stripe",
+      "total_price": {
+        "currency": "SGD",
+        "amount": 11600
+      },
+      "processing_method": "direct",
+      "order_number": {
+        "value": "191569914589",
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/orders/176521183251"
+      },
+      "product_1_id": {
+        "value": 8561681223,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561681223"
+      },
+      "product_1_title": "Resist Daily Pore-Refining Treatment 2% BHA (Salicylic Acid)",
+      "product_1_price": {
+        "currency": "SGD",
+        "amount": 4800
+      },
+      "product_1_grams": 123,
+      "product_1_sku": 7820,
+      "product_2_id": {
+        "value": 8561688839,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561688839"
+      },
+      "product_2_title": "Resist C15 Super Booster",
+      "product_2_price": {
+        "currency": "SGD",
+        "amount": 6800
+      },
+      "product_2_grams": 88,
+      "product_2_sku": 7770,
+      "tracking_number": null
+    }
+  },
+  {
+    "type": "event",
+    "id": "6f160f06-0954-11e8-a531-275921f914ec",
+    "created_at": 1517711888,
+    "event_name": "checkout-completed",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1517711739,
+      "updated_date": 1517711888,
+      "id": {
+        "value": 550651297811,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/checkouts/550651297811"
+      },
+      "cart": "b077a188d5fe5f20140606611821ea7c",
+      "gateway": "stripe",
+      "completed_at": 1517711885,
+      "total_price": {
+        "currency": "SGD",
+        "amount": 11600
+      },
+      "order_number": {
+        "value": "#550651297811",
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/orders/550651297811"
+      },
+      "abandoned_checkout_url": "https://checkout.shopify.com/14402440/checkouts/d2958614102bd67238d569ada7b1a4c8/recover?key=d418ff942ebff773ee9d19f7db61aa89",
+      "product_1_id": {
+        "value": 8561681223,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561681223"
+      },
+      "product_1_title": "Resist Daily Pore-Refining Treatment 2% BHA (Salicylic Acid)",
+      "product_1_price": {
+        "currency": "SGD",
+        "amount": 4800
+      },
+      "product_1_grams": 123,
+      "product_1_sku": 7820,
+      "product_2_id": {
+        "value": 8561688839,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561688839"
+      },
+      "product_2_title": "Resist C15 Super Booster",
+      "product_2_price": {
+        "currency": "SGD",
+        "amount": 6800
+      },
+      "product_2_grams": 88,
+      "product_2_sku": 7770,
+      "tracking_number": null
+    }
+  },
+  {
+    "type": "event",
+    "id": "38d3fd0e-0954-11e8-9f8b-6324fe981fa4",
+    "created_at": 1517711797,
+    "event_name": "checkout-payment-step",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1517711739,
+      "updated_date": 1517711797,
+      "id": {
+        "value": 550651297811,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/checkouts/550651297811"
+      },
+      "cart": "b077a188d5fe5f20140606611821ea7c",
+      "total_price": {
+        "currency": "SGD",
+        "amount": 11600
+      },
+      "order_number": {
+        "value": "#550651297811",
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/orders/550651297811"
+      },
+      "abandoned_checkout_url": "https://checkout.shopify.com/14402440/checkouts/d2958614102bd67238d569ada7b1a4c8/recover?key=d418ff942ebff773ee9d19f7db61aa89",
+      "product_1_id": {
+        "value": 8561681223,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561681223"
+      },
+      "product_1_title": "Resist Daily Pore-Refining Treatment 2% BHA (Salicylic Acid)",
+      "product_1_price": {
+        "currency": "SGD",
+        "amount": 4800
+      },
+      "product_1_grams": 123,
+      "product_1_sku": 7820,
+      "product_2_id": {
+        "value": 8561688839,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561688839"
+      },
+      "product_2_title": "Resist C15 Super Booster",
+      "product_2_price": {
+        "currency": "SGD",
+        "amount": 6800
+      },
+      "product_2_grams": 88,
+      "product_2_sku": 7770,
+      "tracking_number": null
+    }
+  },
+  {
+    "type": "event",
+    "id": "16459f2c-0954-11e8-8047-1df0f770ca99",
+    "created_at": 1517711739,
+    "event_name": "checkout-start",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1517711739,
+      "updated_date": 1517711739,
+      "id": {
+        "value": 550651297811,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/checkouts/550651297811"
+      },
+      "cart": "b077a188d5fe5f20140606611821ea7c",
+      "total_price": {
+        "currency": "SGD",
+        "amount": 11600
+      },
+      "order_number": {
+        "value": "#550651297811",
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/orders/550651297811"
+      },
+      "abandoned_checkout_url": "https://checkout.shopify.com/14402440/checkouts/d2958614102bd67238d569ada7b1a4c8/recover",
+      "product_1_id": {
+        "value": 8561681223,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561681223"
+      },
+      "product_1_title": "Resist Daily Pore-Refining Treatment 2% BHA (Salicylic Acid)",
+      "product_1_price": {
+        "currency": "SGD",
+        "amount": 4800
+      },
+      "product_1_grams": 123,
+      "product_1_sku": 7820,
+      "product_2_id": {
+        "value": 8561688839,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561688839"
+      },
+      "product_2_title": "Resist C15 Super Booster",
+      "product_2_price": {
+        "currency": "SGD",
+        "amount": 6800
+      },
+      "product_2_grams": 88,
+      "product_2_sku": 7770,
+      "tracking_number": null
+    }
+  },
+  {
+    "type": "event",
+    "id": "164289b8-0954-11e8-ac95-05524db19c40",
+    "created_at": 1517711739,
+    "event_name": "checkout-customer-infos-step",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1517711739,
+      "updated_date": 1517711739,
+      "id": {
+        "value": 550651297811,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/checkouts/550651297811"
+      },
+      "cart": "b077a188d5fe5f20140606611821ea7c",
+      "total_price": {
+        "currency": "SGD",
+        "amount": 11600
+      },
+      "order_number": {
+        "value": "#550651297811",
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/orders/550651297811"
+      },
+      "abandoned_checkout_url": "https://checkout.shopify.com/14402440/checkouts/d2958614102bd67238d569ada7b1a4c8/recover?key=d418ff942ebff773ee9d19f7db61aa89",
+      "product_1_id": {
+        "value": 8561681223,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561681223"
+      },
+      "product_1_title": "Resist Daily Pore-Refining Treatment 2% BHA (Salicylic Acid)",
+      "product_1_price": {
+        "currency": "SGD",
+        "amount": 4800
+      },
+      "product_1_grams": 123,
+      "product_1_sku": 7820,
+      "product_2_id": {
+        "value": 8561688839,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561688839"
+      },
+      "product_2_title": "Resist C15 Super Booster",
+      "product_2_price": {
+        "currency": "SGD",
+        "amount": 6800
+      },
+      "product_2_grams": 88,
+      "product_2_sku": 7770,
+      "tracking_number": null
+    }
+  },
+  {
+    "type": "event",
+    "id": "87355520-0953-11e8-b9c0-53d162b8efb6",
+    "created_at": 1517711499,
+    "event_name": "update-cart",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1517711463,
+      "updated_date": 1517711499,
+      "id": "b077a188d5fe5f20140606611821ea7c",
+      "product_1_id": {
+        "value": 8561681223,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561681223"
+      },
+      "product_1_title": "Resist Daily Pore-Refining Treatment 2% BHA (Salicylic Acid) - 88 ml",
+      "product_1_price": 48,
+      "product_1_grams": 123,
+      "product_1_sku": 7820,
+      "product_2_id": {
+        "value": 8561688839,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561688839"
+      },
+      "product_2_title": "Resist C15 Super Booster - 20 ml",
+      "product_2_price": 68,
+      "product_2_grams": 88,
+      "product_2_sku": 7770,
+      "tracking_number": null
+    }
+  },
+  {
+    "type": "event",
+    "id": "71bf9aac-0953-11e8-a25f-231a55167c5d",
+    "created_at": 1517711463,
+    "event_name": "create-cart",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1517711463,
+      "updated_date": 1517711463,
+      "id": "b077a188d5fe5f20140606611821ea7c",
+      "product_1_id": {
+        "value": 8561688839,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561688839"
+      },
+      "product_1_title": "Resist C15 Super Booster - 20 ml",
+      "product_1_price": 68,
+      "product_1_grams": 88,
+      "product_1_sku": 7770,
+      "tracking_number": null
+    }
+  },
+  {
+    "type": "event",
+    "id": "71bf3dc8-0953-11e8-925b-479138529ca8",
+    "created_at": 1517711463,
+    "event_name": "update-cart",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1517711463,
+      "updated_date": 1517711463,
+      "id": "b077a188d5fe5f20140606611821ea7c",
+      "product_1_id": {
+        "value": 8561688839,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561688839"
+      },
+      "product_1_title": "Resist C15 Super Booster - 20 ml",
+      "product_1_price": 68,
+      "product_1_grams": 88,
+      "product_1_sku": 7770,
+      "tracking_number": null
+    }
+  },
+  {
+    "type": "event",
+    "id": "9070137a-f02e-11e7-bfce-19bd8d80b1ab",
+    "created_at": 1514946844,
+    "event_name": "order-fulfilled",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1514564022,
+      "updated_date": 1514946844,
+      "id": 122972373011,
+      "cart": "2134d89a4adb0472dadc4bf1f628e2b9",
+      "gateway": "stripe",
+      "total_price": {
+        "currency": "SGD",
+        "amount": 11300
+      },
+      "tracking_number": null,
+      "processing_method": "direct",
+      "order_number": {
+        "value": "191569913517",
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/orders/122972373011"
+      },
+      "product_1_id": {
+        "value": 8561830407,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561830407"
+      },
+      "product_1_title": "Hydralight One Step Face Cleanser",
+      "product_1_price": {
+        "currency": "SGD",
+        "amount": 5000
+      },
+      "product_1_status": "fulfilled",
+      "product_1_grams": 527,
+      "product_1_sku": 1101,
+      "product_2_id": {
+        "value": 8561681223,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561681223"
+      },
+      "product_2_title": "Resist Daily Pore-Refining Treatment 2% BHA (Salicylic Acid)",
+      "product_2_price": {
+        "currency": "SGD",
+        "amount": 1500
+      },
+      "product_2_status": "fulfilled",
+      "product_2_grams": 43,
+      "product_2_sku": 7827,
+      "product_3_id": {
+        "value": 8561710983,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561710983"
+      },
+      "product_3_title": "Resist Anti-Aging Clear Skin Hydrator",
+      "product_3_price": {
+        "currency": "SGD",
+        "amount": 4800
+      },
+      "product_3_status": "fulfilled",
+      "product_3_grams": 113,
+      "product_3_sku": 7690
+    }
+  },
+  {
+    "type": "event",
+    "id": "3f1d8396-ecb3-11e7-a37c-4dfaf2d6e0b8",
+    "created_at": 1514564026,
+    "event_name": "order-create",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1514564022,
+      "updated_date": 1514564026,
+      "id": 122972373011,
+      "cart": "2134d89a4adb0472dadc4bf1f628e2b9",
+      "gateway": "stripe",
+      "total_price": {
+        "currency": "SGD",
+        "amount": 11300
+      },
+      "processing_method": "direct",
+      "order_number": {
+        "value": "191569913517",
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/orders/122972373011"
+      },
+      "product_1_id": {
+        "value": 8561830407,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561830407"
+      },
+      "product_1_title": "Hydralight One Step Face Cleanser",
+      "product_1_price": {
+        "currency": "SGD",
+        "amount": 5000
+      },
+      "product_1_grams": 527,
+      "product_1_sku": 1101,
+      "product_2_id": {
+        "value": 8561681223,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561681223"
+      },
+      "product_2_title": "Resist Daily Pore-Refining Treatment 2% BHA (Salicylic Acid)",
+      "product_2_price": {
+        "currency": "SGD",
+        "amount": 1500
+      },
+      "product_2_grams": 43,
+      "product_2_sku": 7827,
+      "product_3_id": {
+        "value": 8561710983,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561710983"
+      },
+      "product_3_title": "Resist Anti-Aging Clear Skin Hydrator",
+      "product_3_price": {
+        "currency": "SGD",
+        "amount": 4800
+      },
+      "product_3_grams": 113,
+      "product_3_sku": 7690,
+      "tracking_number": null
+    }
+  },
+  {
+    "type": "event",
+    "id": "3cbf873e-ecb3-11e7-a476-5bcfc8a6b35a",
+    "created_at": 1514564022,
+    "event_name": "checkout-completed",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1514563794,
+      "updated_date": 1514564022,
+      "id": {
+        "value": 421112315923,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/checkouts/421112315923"
+      },
+      "cart": "2134d89a4adb0472dadc4bf1f628e2b9",
+      "gateway": "stripe",
+      "completed_at": 1514564022,
+      "total_price": {
+        "currency": "SGD",
+        "amount": 11300
+      },
+      "order_number": {
+        "value": "#421112315923",
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/orders/421112315923"
+      },
+      "abandoned_checkout_url": "https://checkout.shopify.com/14402440/checkouts/ea6f2ed25d4a7af4807e08c265eedd65/recover?key=96092e0d26bdd78b575c1aebc1ee517c",
+      "product_1_id": {
+        "value": 8561830407,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561830407"
+      },
+      "product_1_title": "Hydralight One Step Face Cleanser",
+      "product_1_price": {
+        "currency": "SGD",
+        "amount": 5000
+      },
+      "product_1_grams": 527,
+      "product_1_sku": 1101,
+      "product_2_id": {
+        "value": 8561681223,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561681223"
+      },
+      "product_2_title": "Resist Daily Pore-Refining Treatment 2% BHA (Salicylic Acid)",
+      "product_2_price": {
+        "currency": "SGD",
+        "amount": 1500
+      },
+      "product_2_grams": 43,
+      "product_2_sku": 7827,
+      "product_3_id": {
+        "value": 8561710983,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561710983"
+      },
+      "product_3_title": "Resist Anti-Aging Clear Skin Hydrator",
+      "product_3_price": {
+        "currency": "SGD",
+        "amount": 4800
+      },
+      "product_3_grams": 113,
+      "product_3_sku": 7690,
+      "tracking_number": null
+    }
+  },
+  {
+    "type": "event",
+    "id": "3cbed6a4-ecb3-11e7-b285-5de0add455a0",
+    "created_at": 1514564022,
+    "event_name": "order-paid",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1514564022,
+      "updated_date": 1514564022,
+      "id": 122972373011,
+      "cart": "2134d89a4adb0472dadc4bf1f628e2b9",
+      "gateway": "stripe",
+      "total_price": {
+        "currency": "SGD",
+        "amount": 11300
+      },
+      "processing_method": "direct",
+      "order_number": {
+        "value": "191569913517",
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/orders/122972373011"
+      },
+      "product_1_id": {
+        "value": 8561830407,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561830407"
+      },
+      "product_1_title": "Hydralight One Step Face Cleanser",
+      "product_1_price": {
+        "currency": "SGD",
+        "amount": 5000
+      },
+      "product_1_grams": 527,
+      "product_1_sku": 1101,
+      "product_2_id": {
+        "value": 8561681223,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561681223"
+      },
+      "product_2_title": "Resist Daily Pore-Refining Treatment 2% BHA (Salicylic Acid)",
+      "product_2_price": {
+        "currency": "SGD",
+        "amount": 1500
+      },
+      "product_2_grams": 43,
+      "product_2_sku": 7827,
+      "product_3_id": {
+        "value": 8561710983,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561710983"
+      },
+      "product_3_title": "Resist Anti-Aging Clear Skin Hydrator",
+      "product_3_price": {
+        "currency": "SGD",
+        "amount": 4800
+      },
+      "product_3_grams": 113,
+      "product_3_sku": 7690,
+      "tracking_number": null
+    }
+  },
+  {
+    "type": "event",
+    "id": "2d3a0384-ecb3-11e7-b91e-1b09abc2c45d",
+    "created_at": 1514563996,
+    "event_name": "checkout-payment-step",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1514563794,
+      "updated_date": 1514563996,
+      "id": {
+        "value": 421112315923,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/checkouts/421112315923"
+      },
+      "cart": "2134d89a4adb0472dadc4bf1f628e2b9",
+      "total_price": {
+        "currency": "SGD",
+        "amount": 11300
+      },
+      "order_number": {
+        "value": "#421112315923",
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/orders/421112315923"
+      },
+      "abandoned_checkout_url": "https://checkout.shopify.com/14402440/checkouts/ea6f2ed25d4a7af4807e08c265eedd65/recover?key=96092e0d26bdd78b575c1aebc1ee517c",
+      "product_1_id": {
+        "value": 8561830407,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561830407"
+      },
+      "product_1_title": "Hydralight One Step Face Cleanser",
+      "product_1_price": {
+        "currency": "SGD",
+        "amount": 5000
+      },
+      "product_1_grams": 527,
+      "product_1_sku": 1101,
+      "product_2_id": {
+        "value": 8561681223,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561681223"
+      },
+      "product_2_title": "Resist Daily Pore-Refining Treatment 2% BHA (Salicylic Acid)",
+      "product_2_price": {
+        "currency": "SGD",
+        "amount": 1500
+      },
+      "product_2_grams": 43,
+      "product_2_sku": 7827,
+      "product_3_id": {
+        "value": 8561710983,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561710983"
+      },
+      "product_3_title": "Resist Anti-Aging Clear Skin Hydrator",
+      "product_3_price": {
+        "currency": "SGD",
+        "amount": 4800
+      },
+      "product_3_grams": 113,
+      "product_3_sku": 7690,
+      "tracking_number": null
+    }
+  },
+  {
+    "type": "event",
+    "id": "29a5f21e-ecb3-11e7-ba2a-51ebe7002d6b",
+    "created_at": 1514563990,
+    "event_name": "checkout-customer-infos-step",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1514563794,
+      "updated_date": 1514563990,
+      "id": {
+        "value": 421112315923,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/checkouts/421112315923"
+      },
+      "cart": "2134d89a4adb0472dadc4bf1f628e2b9",
+      "total_price": {
+        "currency": "SGD",
+        "amount": 11300
+      },
+      "order_number": {
+        "value": "#421112315923",
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/orders/421112315923"
+      },
+      "abandoned_checkout_url": "https://checkout.shopify.com/14402440/checkouts/ea6f2ed25d4a7af4807e08c265eedd65/recover",
+      "product_1_id": {
+        "value": 8561830407,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561830407"
+      },
+      "product_1_title": "Hydralight One Step Face Cleanser",
+      "product_1_price": {
+        "currency": "SGD",
+        "amount": 5000
+      },
+      "product_1_grams": 527,
+      "product_1_sku": 1101,
+      "product_2_id": {
+        "value": 8561681223,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561681223"
+      },
+      "product_2_title": "Resist Daily Pore-Refining Treatment 2% BHA (Salicylic Acid)",
+      "product_2_price": {
+        "currency": "SGD",
+        "amount": 1500
+      },
+      "product_2_grams": 43,
+      "product_2_sku": 7827,
+      "product_3_id": {
+        "value": 8561710983,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561710983"
+      },
+      "product_3_title": "Resist Anti-Aging Clear Skin Hydrator",
+      "product_3_price": {
+        "currency": "SGD",
+        "amount": 4800
+      },
+      "product_3_grams": 113,
+      "product_3_sku": 7690,
+      "tracking_number": null
+    }
+  },
+  {
+    "type": "event",
+    "id": "14333b4e-ecb3-11e7-995a-1b84582c7023",
+    "created_at": 1514563954,
+    "event_name": "update-cart",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1514563716,
+      "updated_date": 1514563954,
+      "id": "2134d89a4adb0472dadc4bf1f628e2b9",
+      "product_1_id": {
+        "value": 8561830407,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561830407"
+      },
+      "product_1_title": "Hydralight One Step Face Cleanser - 473 ml",
+      "product_1_price": 50,
+      "product_1_grams": 527,
+      "product_1_sku": 1101,
+      "product_2_id": {
+        "value": 8561681223,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561681223"
+      },
+      "product_2_title": "Resist Daily Pore-Refining Treatment 2% BHA (Salicylic Acid) - 30 ml",
+      "product_2_price": 15,
+      "product_2_grams": 43,
+      "product_2_sku": 7827,
+      "product_3_id": {
+        "value": 8561710983,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561710983"
+      },
+      "product_3_title": "Resist Anti-Aging Clear Skin Hydrator - 60 ml",
+      "product_3_price": 48,
+      "product_3_grams": 113,
+      "product_3_sku": 7690,
+      "tracking_number": null
+    }
+  },
+  {
+    "type": "event",
+    "id": "b56f17fe-ecb2-11e7-9b24-595c4a9c86f0",
+    "created_at": 1514563795,
+    "event_name": "checkout-customer-infos-step",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1514563794,
+      "updated_date": 1514563795,
+      "id": {
+        "value": 421112315923,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/checkouts/421112315923"
+      },
+      "cart": "2134d89a4adb0472dadc4bf1f628e2b9",
+      "total_price": {
+        "currency": "SGD",
+        "amount": 6300
+      },
+      "order_number": {
+        "value": "#421112315923",
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/orders/421112315923"
+      },
+      "abandoned_checkout_url": "https://checkout.shopify.com/14402440/checkouts/ea6f2ed25d4a7af4807e08c265eedd65/recover?key=399aedec09dd7efd4049e5e36440e2cf",
+      "product_1_id": {
+        "value": 8561681223,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561681223"
+      },
+      "product_1_title": "Resist Daily Pore-Refining Treatment 2% BHA (Salicylic Acid)",
+      "product_1_price": {
+        "currency": "SGD",
+        "amount": 1500
+      },
+      "product_1_grams": 43,
+      "product_1_sku": 7827,
+      "product_2_id": {
+        "value": 8561710983,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561710983"
+      },
+      "product_2_title": "Resist Anti-Aging Clear Skin Hydrator",
+      "product_2_price": {
+        "currency": "SGD",
+        "amount": 4800
+      },
+      "product_2_grams": 113,
+      "product_2_sku": 7690,
+      "tracking_number": null
+    }
+  },
+  {
+    "type": "event",
+    "id": "b4da9db8-ecb2-11e7-9780-073311d81c20",
+    "created_at": 1514563794,
+    "event_name": "checkout-customer-infos-step",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1514563794,
+      "updated_date": 1514563794,
+      "id": {
+        "value": 421112315923,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/checkouts/421112315923"
+      },
+      "cart": "2134d89a4adb0472dadc4bf1f628e2b9",
+      "total_price": {
+        "currency": "SGD",
+        "amount": 6300
+      },
+      "order_number": {
+        "value": "#421112315923",
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/orders/421112315923"
+      },
+      "abandoned_checkout_url": "https://checkout.shopify.com/14402440/checkouts/ea6f2ed25d4a7af4807e08c265eedd65/recover",
+      "product_1_id": {
+        "value": 8561681223,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561681223"
+      },
+      "product_1_title": "Resist Daily Pore-Refining Treatment 2% BHA (Salicylic Acid)",
+      "product_1_price": {
+        "currency": "SGD",
+        "amount": 1500
+      },
+      "product_1_grams": 43,
+      "product_1_sku": 7827,
+      "product_2_id": {
+        "value": 8561710983,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561710983"
+      },
+      "product_2_title": "Resist Anti-Aging Clear Skin Hydrator",
+      "product_2_price": {
+        "currency": "SGD",
+        "amount": 4800
+      },
+      "product_2_grams": 113,
+      "product_2_sku": 7690,
+      "tracking_number": null
+    }
+  },
+  {
+    "type": "event",
+    "id": "b4d885f0-ecb2-11e7-ba29-79acddbd82bd",
+    "created_at": 1514563794,
+    "event_name": "checkout-start",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1514563794,
+      "updated_date": 1514563794,
+      "id": {
+        "value": 421112315923,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/checkouts/421112315923"
+      },
+      "cart": "2134d89a4adb0472dadc4bf1f628e2b9",
+      "total_price": {
+        "currency": "SGD",
+        "amount": 6300
+      },
+      "order_number": {
+        "value": "#421112315923",
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/orders/421112315923"
+      },
+      "abandoned_checkout_url": "https://checkout.shopify.com/14402440/checkouts/ea6f2ed25d4a7af4807e08c265eedd65/recover",
+      "product_1_id": {
+        "value": 8561681223,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561681223"
+      },
+      "product_1_title": "Resist Daily Pore-Refining Treatment 2% BHA (Salicylic Acid)",
+      "product_1_price": {
+        "currency": "SGD",
+        "amount": 1500
+      },
+      "product_1_grams": 43,
+      "product_1_sku": 7827,
+      "product_2_id": {
+        "value": 8561710983,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561710983"
+      },
+      "product_2_title": "Resist Anti-Aging Clear Skin Hydrator",
+      "product_2_price": {
+        "currency": "SGD",
+        "amount": 4800
+      },
+      "product_2_grams": 113,
+      "product_2_sku": 7690,
+      "tracking_number": null
+    }
+  },
+  {
+    "type": "event",
+    "id": "b01086da-ecb2-11e7-a104-3f5a5de1585b",
+    "created_at": 1514563786,
+    "event_name": "update-cart",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1514563716,
+      "updated_date": 1514563786,
+      "id": "2134d89a4adb0472dadc4bf1f628e2b9",
+      "product_1_id": {
+        "value": 8561681223,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561681223"
+      },
+      "product_1_title": "Resist Daily Pore-Refining Treatment 2% BHA (Salicylic Acid) - 30 ml",
+      "product_1_price": 15,
+      "product_1_grams": 43,
+      "product_1_sku": 7827,
+      "product_2_id": {
+        "value": 8561710983,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561710983"
+      },
+      "product_2_title": "Resist Anti-Aging Clear Skin Hydrator - 60 ml",
+      "product_2_price": 48,
+      "product_2_grams": 113,
+      "product_2_sku": 7690,
+      "tracking_number": null
+    }
+  },
+  {
+    "type": "event",
+    "id": "865a3bb0-ecb2-11e7-851e-050ed5ba2be4",
+    "created_at": 1514563716,
+    "event_name": "create-cart",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1514563716,
+      "updated_date": 1514563716,
+      "id": "2134d89a4adb0472dadc4bf1f628e2b9",
+      "product_1_id": {
+        "value": 8561710983,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561710983"
+      },
+      "product_1_title": "Resist Anti-Aging Clear Skin Hydrator - 60 ml",
+      "product_1_price": 48,
+      "product_1_grams": 113,
+      "product_1_sku": 7690,
+      "tracking_number": null
+    }
+  },
+  {
+    "type": "event",
+    "id": "8658b074-ecb2-11e7-b116-2f223d4615fd",
+    "created_at": 1514563716,
+    "event_name": "update-cart",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1514563716,
+      "updated_date": 1514563716,
+      "id": "2134d89a4adb0472dadc4bf1f628e2b9",
+      "product_1_id": {
+        "value": 8561710983,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561710983"
+      },
+      "product_1_title": "Resist Anti-Aging Clear Skin Hydrator - 60 ml",
+      "product_1_price": 48,
+      "product_1_grams": 113,
+      "product_1_sku": 7690,
+      "tracking_number": null
+    }
+  },
+  {
+    "type": "event",
+    "id": "c3bfe87a-d4ce-11e7-9de2-7759615d49a5",
+    "created_at": 1511937017,
+    "event_name": "order-fulfilled",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1511620681,
+      "updated_date": 1511937017,
+      "id": 61531389971,
+      "cart": "9076989b565fbbe6484e95ac078a4c37",
+      "gateway": "stripe",
+      "total_price": {
+        "currency": "SGD",
+        "amount": 15900
+      },
+      "tracking_number": null,
+      "processing_method": "direct",
+      "order_number": {
+        "value": "191569912469",
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/orders/61531389971"
+      },
+      "product_1_id": {
+        "value": 9386603143,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/9386603143"
+      },
+      "product_1_title": "Power Couple: Resist C15 & Ultra-Light Antioxidant Serum",
+      "product_1_price": {
+        "currency": "SGD",
+        "amount": 10900
+      },
+      "product_1_status": "fulfilled",
+      "product_1_sku": 4890,
+      "product_2_id": {
+        "value": 8561830407,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561830407"
+      },
+      "product_2_title": "Hydralight One Step Face Cleanser",
+      "product_2_price": {
+        "currency": "SGD",
+        "amount": 5000
+      },
+      "product_2_status": "fulfilled",
+      "product_2_grams": 527,
+      "product_2_sku": 1101
+    }
+  },
+  {
+    "type": "event",
+    "id": "3d5ec3ec-d1ee-11e7-b93d-038f88ac6baf",
+    "created_at": 1511620682,
+    "event_name": "order-create",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1511620681,
+      "updated_date": 1511620682,
+      "id": 61531389971,
+      "cart": "9076989b565fbbe6484e95ac078a4c37",
+      "gateway": "stripe",
+      "total_price": {
+        "currency": "SGD",
+        "amount": 15900
+      },
+      "processing_method": "direct",
+      "order_number": {
+        "value": "191569912469",
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/orders/61531389971"
+      },
+      "product_1_id": {
+        "value": 9386603143,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/9386603143"
+      },
+      "product_1_title": "Power Couple: Resist C15 & Ultra-Light Antioxidant Serum",
+      "product_1_price": {
+        "currency": "SGD",
+        "amount": 10900
+      },
+      "product_1_sku": 4890,
+      "product_2_id": {
+        "value": 8561830407,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561830407"
+      },
+      "product_2_title": "Hydralight One Step Face Cleanser",
+      "product_2_price": {
+        "currency": "SGD",
+        "amount": 5000
+      },
+      "product_2_grams": 527,
+      "product_2_sku": 1101,
+      "tracking_number": null
+    }
+  },
+  {
+    "type": "event",
+    "id": "3ccd506a-d1ee-11e7-bc83-733699e1400b",
+    "created_at": 1511620681,
+    "event_name": "order-paid",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1511620681,
+      "updated_date": 1511620681,
+      "id": 61531389971,
+      "cart": "9076989b565fbbe6484e95ac078a4c37",
+      "gateway": "stripe",
+      "total_price": {
+        "currency": "SGD",
+        "amount": 15900
+      },
+      "processing_method": "direct",
+      "order_number": {
+        "value": "191569912469",
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/orders/61531389971"
+      },
+      "product_1_id": {
+        "value": 9386603143,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/9386603143"
+      },
+      "product_1_title": "Power Couple: Resist C15 & Ultra-Light Antioxidant Serum",
+      "product_1_price": {
+        "currency": "SGD",
+        "amount": 10900
+      },
+      "product_1_sku": 4890,
+      "product_2_id": {
+        "value": 8561830407,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561830407"
+      },
+      "product_2_title": "Hydralight One Step Face Cleanser",
+      "product_2_price": {
+        "currency": "SGD",
+        "amount": 5000
+      },
+      "product_2_grams": 527,
+      "product_2_sku": 1101,
+      "tracking_number": null
+    }
+  },
+  {
+    "type": "event",
+    "id": "3cc86e4c-d1ee-11e7-9a47-0b0f6ad81c9d",
+    "created_at": 1511620681,
+    "event_name": "checkout-completed",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1511620419,
+      "updated_date": 1511620681,
+      "id": {
+        "value": 143612018707,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/checkouts/143612018707"
+      },
+      "cart": "9076989b565fbbe6484e95ac078a4c37",
+      "gateway": "stripe",
+      "completed_at": 1511620681,
+      "total_price": {
+        "currency": "SGD",
+        "amount": 15900
+      },
+      "order_number": {
+        "value": "#143612018707",
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/orders/143612018707"
+      },
+      "abandoned_checkout_url": "https://checkout.shopify.com/14402440/checkouts/b658b058ab2f395ee3f83063c9aef01d/recover?key=d01e995db4359bbae2672a9ecced8ac9",
+      "product_1_id": {
+        "value": 9386603143,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/9386603143"
+      },
+      "product_1_title": "Power Couple: Resist C15 & Ultra-Light Antioxidant Serum",
+      "product_1_price": {
+        "currency": "SGD",
+        "amount": 10900
+      },
+      "product_1_sku": 4890,
+      "product_2_id": {
+        "value": 8561830407,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561830407"
+      },
+      "product_2_title": "Hydralight One Step Face Cleanser",
+      "product_2_price": {
+        "currency": "SGD",
+        "amount": 5000
+      },
+      "product_2_grams": 527,
+      "product_2_sku": 1101,
+      "tracking_number": null
+    }
+  },
+  {
+    "type": "event",
+    "id": "2f12601e-d1ee-11e7-be07-23117ea53faf",
+    "created_at": 1511620658,
+    "event_name": "checkout-payment-step",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1511620419,
+      "updated_date": 1511620658,
+      "id": {
+        "value": 143612018707,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/checkouts/143612018707"
+      },
+      "cart": "9076989b565fbbe6484e95ac078a4c37",
+      "total_price": {
+        "currency": "SGD",
+        "amount": 15900
+      },
+      "order_number": {
+        "value": "#143612018707",
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/orders/143612018707"
+      },
+      "abandoned_checkout_url": "https://checkout.shopify.com/14402440/checkouts/b658b058ab2f395ee3f83063c9aef01d/recover?key=d01e995db4359bbae2672a9ecced8ac9",
+      "product_1_id": {
+        "value": 9386603143,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/9386603143"
+      },
+      "product_1_title": "Power Couple: Resist C15 & Ultra-Light Antioxidant Serum",
+      "product_1_price": {
+        "currency": "SGD",
+        "amount": 10900
+      },
+      "product_1_sku": 4890,
+      "product_2_id": {
+        "value": 8561830407,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561830407"
+      },
+      "product_2_title": "Hydralight One Step Face Cleanser",
+      "product_2_price": {
+        "currency": "SGD",
+        "amount": 5000
+      },
+      "product_2_grams": 527,
+      "product_2_sku": 1101,
+      "tracking_number": null
+    }
+  },
+  {
+    "type": "event",
+    "id": "2ae9c6b2-d1ee-11e7-879b-45ff45b3f228",
+    "created_at": 1511620651,
+    "event_name": "checkout-customer-infos-step",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1511620419,
+      "updated_date": 1511620651,
+      "id": {
+        "value": 143612018707,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/checkouts/143612018707"
+      },
+      "cart": "9076989b565fbbe6484e95ac078a4c37",
+      "total_price": {
+        "currency": "SGD",
+        "amount": 15900
+      },
+      "order_number": {
+        "value": "#143612018707",
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/orders/143612018707"
+      },
+      "abandoned_checkout_url": "https://checkout.shopify.com/14402440/checkouts/b658b058ab2f395ee3f83063c9aef01d/recover?key=d01e995db4359bbae2672a9ecced8ac9",
+      "product_1_id": {
+        "value": 9386603143,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/9386603143"
+      },
+      "product_1_title": "Power Couple: Resist C15 & Ultra-Light Antioxidant Serum",
+      "product_1_price": {
+        "currency": "SGD",
+        "amount": 10900
+      },
+      "product_1_sku": 4890,
+      "product_2_id": {
+        "value": 8561830407,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561830407"
+      },
+      "product_2_title": "Hydralight One Step Face Cleanser",
+      "product_2_price": {
+        "currency": "SGD",
+        "amount": 5000
+      },
+      "product_2_grams": 527,
+      "product_2_sku": 1101,
+      "tracking_number": null
+    }
+  },
+  {
+    "type": "event",
+    "id": "26baed0a-d1ee-11e7-ad58-7df2d349f330",
+    "created_at": 1511620644,
+    "event_name": "checkout-customer-infos-step",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1511620419,
+      "updated_date": 1511620644,
+      "id": {
+        "value": 143612018707,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/checkouts/143612018707"
+      },
+      "cart": "9076989b565fbbe6484e95ac078a4c37",
+      "total_price": {
+        "currency": "SGD",
+        "amount": 15900
+      },
+      "order_number": {
+        "value": "#143612018707",
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/orders/143612018707"
+      },
+      "abandoned_checkout_url": "https://checkout.shopify.com/14402440/checkouts/b658b058ab2f395ee3f83063c9aef01d/recover",
+      "product_1_id": {
+        "value": 9386603143,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/9386603143"
+      },
+      "product_1_title": "Power Couple: Resist C15 & Ultra-Light Antioxidant Serum",
+      "product_1_price": {
+        "currency": "SGD",
+        "amount": 10900
+      },
+      "product_1_sku": 4890,
+      "product_2_id": {
+        "value": 8561830407,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561830407"
+      },
+      "product_2_title": "Hydralight One Step Face Cleanser",
+      "product_2_price": {
+        "currency": "SGD",
+        "amount": 5000
+      },
+      "product_2_grams": 527,
+      "product_2_sku": 1101,
+      "tracking_number": null
+    }
+  },
+  {
+    "type": "event",
+    "id": "2292020e-d1ee-11e7-a9bf-6d0a301e023c",
+    "created_at": 1511620637,
+    "event_name": "update-cart",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1511620409,
+      "updated_date": 1511620637,
+      "id": "9076989b565fbbe6484e95ac078a4c37",
+      "product_1_id": {
+        "value": 9386603143,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/9386603143"
+      },
+      "product_1_title": "Power Couple: Resist C15 & Ultra-Light Antioxidant Serum",
+      "product_1_price": 109,
+      "product_1_sku": 4890,
+      "product_2_id": {
+        "value": 8561830407,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561830407"
+      },
+      "product_2_title": "Hydralight One Step Face Cleanser - 473 ml",
+      "product_2_price": 50,
+      "product_2_grams": 527,
+      "product_2_sku": 1101,
+      "tracking_number": null
+    }
+  },
+  {
+    "type": "event",
+    "id": "186bb536-d1ee-11e7-a7bb-411b60a679a8",
+    "created_at": 1511620620,
+    "event_name": "update-cart",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1511620409,
+      "updated_date": 1511620620,
+      "id": "9076989b565fbbe6484e95ac078a4c37",
+      "product_1_id": {
+        "value": 9386603143,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/9386603143"
+      },
+      "product_1_title": "Power Couple: Resist C15 & Ultra-Light Antioxidant Serum",
+      "product_1_price": 109,
+      "product_1_sku": 4890,
+      "product_2_id": {
+        "value": 53763276819,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/53763276819"
+      },
+      "product_2_title": "Oily Relief",
+      "product_2_price": 78,
+      "product_2_sku": 0,
+      "product_3_id": {
+        "value": 8561830407,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561830407"
+      },
+      "product_3_title": "Hydralight One Step Face Cleanser - 473 ml",
+      "product_3_price": 50,
+      "product_3_grams": 527,
+      "product_3_sku": 1101,
+      "tracking_number": null
+    }
+  },
+  {
+    "type": "event",
+    "id": "d182c2a4-d1ed-11e7-ad61-55986a1ac6cf",
+    "created_at": 1511620501,
+    "event_name": "update-cart",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1511620409,
+      "updated_date": 1511620501,
+      "id": "9076989b565fbbe6484e95ac078a4c37",
+      "product_1_id": {
+        "value": 53763276819,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/53763276819"
+      },
+      "product_1_title": "Oily Relief",
+      "product_1_price": 78,
+      "product_1_sku": 0,
+      "product_2_id": {
+        "value": 8561830407,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561830407"
+      },
+      "product_2_title": "Hydralight One Step Face Cleanser - 473 ml",
+      "product_2_price": 50,
+      "product_2_grams": 527,
+      "product_2_sku": 1101,
+      "tracking_number": null
+    }
+  },
+  {
+    "type": "event",
+    "id": "a0a417dc-d1ed-11e7-8149-25da310d3e4c",
+    "created_at": 1511620419,
+    "event_name": "checkout-start",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1511620419,
+      "updated_date": 1511620419,
+      "id": {
+        "value": 143612018707,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/checkouts/143612018707"
+      },
+      "cart": "9076989b565fbbe6484e95ac078a4c37",
+      "total_price": {
+        "currency": "SGD",
+        "amount": 5000
+      },
+      "order_number": {
+        "value": "#143612018707",
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/orders/143612018707"
+      },
+      "abandoned_checkout_url": "https://checkout.shopify.com/14402440/checkouts/b658b058ab2f395ee3f83063c9aef01d/recover",
+      "product_1_id": {
+        "value": 8561830407,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561830407"
+      },
+      "product_1_title": "Hydralight One Step Face Cleanser",
+      "product_1_price": {
+        "currency": "SGD",
+        "amount": 5000
+      },
+      "product_1_grams": 527,
+      "product_1_sku": 1101,
+      "tracking_number": null
+    }
+  },
+  {
+    "type": "event",
+    "id": "a09df19a-d1ed-11e7-b71b-15e92f7473ff",
+    "created_at": 1511620419,
+    "event_name": "checkout-customer-infos-step",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1511620419,
+      "updated_date": 1511620419,
+      "id": {
+        "value": 143612018707,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/checkouts/143612018707"
+      },
+      "cart": "9076989b565fbbe6484e95ac078a4c37",
+      "total_price": {
+        "currency": "SGD",
+        "amount": 5000
+      },
+      "order_number": {
+        "value": "#143612018707",
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/orders/143612018707"
+      },
+      "abandoned_checkout_url": "https://checkout.shopify.com/14402440/checkouts/b658b058ab2f395ee3f83063c9aef01d/recover",
+      "product_1_id": {
+        "value": 8561830407,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561830407"
+      },
+      "product_1_title": "Hydralight One Step Face Cleanser",
+      "product_1_price": {
+        "currency": "SGD",
+        "amount": 5000
+      },
+      "product_1_grams": 527,
+      "product_1_sku": 1101,
+      "tracking_number": null
+    }
+  },
+  {
+    "type": "event",
+    "id": "a0049824-d1ed-11e7-a0c5-0561bf5f31bf",
+    "created_at": 1511620418,
+    "event_name": "update-cart",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1511620409,
+      "updated_date": 1511620418,
+      "id": "9076989b565fbbe6484e95ac078a4c37",
+      "product_1_id": {
+        "value": 8561830407,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561830407"
+      },
+      "product_1_title": "Hydralight One Step Face Cleanser - 473 ml",
+      "product_1_price": 50,
+      "product_1_grams": 527,
+      "product_1_sku": 1101,
+      "tracking_number": null
+    }
+  },
+  {
+    "type": "event",
+    "id": "9b3ed336-d1ed-11e7-b83f-6356875f2416",
+    "created_at": 1511620410,
+    "event_name": "update-cart",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1511620409,
+      "updated_date": 1511620410,
+      "id": "9076989b565fbbe6484e95ac078a4c37",
+      "product_1_id": {
+        "value": 8561830407,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561830407"
+      },
+      "product_1_title": "Hydralight One Step Face Cleanser - 473 ml",
+      "product_1_price": 50,
+      "product_1_grams": 527,
+      "product_1_sku": 1101,
+      "tracking_number": null
+    }
+  },
+  {
+    "type": "event",
+    "id": "9aac0b28-d1ed-11e7-ab0c-39f2f6b979ed",
+    "created_at": 1511620409,
+    "event_name": "create-cart",
+    "user_id": "5746136903",
+    "email": "customer111@email.com",
+    "intercom_user_id": "594632b52b04886ca65b24e7",
+    "metadata": {
+      "creation_date": 1511620409,
+      "updated_date": 1511620409,
+      "id": "9076989b565fbbe6484e95ac078a4c37",
+      "product_1_id": {
+        "value": 8561830407,
+        "url": "https://paulas-choice-singapore.myshopify.com/admin/products/8561830407"
+      },
+      "product_1_title": "Hydralight One Step Face Cleanser - 473 ml",
+      "product_1_price": 50,
+      "product_1_grams": 527,
+      "product_1_sku": 1101,
+      "tracking_number": null
+    }
+  }
+]
